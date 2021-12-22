@@ -13,6 +13,7 @@ int main() {
 				for (int k = 0; k < K; k++) {
 					cout << signal[x];
 				}
+				//dsd
 			}
 			cout << "\n";
 		}
