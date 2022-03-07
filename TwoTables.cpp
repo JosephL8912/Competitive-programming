@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 struct Rect {
+
 	int x1, y1, x2, y2;  // bottomleft_x, bottomleft_y, topright_x, topright_y
 	int width() { return x2 - x1; }
 	int height() { return y2 - y1; }
